@@ -22,3 +22,9 @@
     background-color: rgb(75, 16, 204);
 
 }
+.box1:hover{
+    background-color: rgb(24, 229, 116);
+}
+.box1:active{
+    background-color: aliceblue;
+}
