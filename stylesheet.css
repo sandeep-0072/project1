@@ -1,0 +1,24 @@
+.box1{
+    position: relative;
+    display: inline-block;
+    height:100px;
+    width: 100px;
+    background-color: black;
+
+}
+.box2{
+    position: relative;
+    display: inline-block;
+    height:100px;
+    width: 100px;
+    background-color: rgb(210, 17, 17);
+
+}
+.box3{
+    position: relative;
+    display: inline-block;
+    height:100px;
+    width: 100px;
+    background-color: rgb(75, 16, 204);
+
+}
